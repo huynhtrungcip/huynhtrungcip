@@ -1,6 +1,6 @@
 # 💫About Me :  
 👋 Hi, I’m Trung Huynh Chi  
-🎓 Third-year Cybersecurity student at Duy Tan University (Carnegie Mellon collaboration)  
+🎓 Third-year Cybersecurity student at Duy Tan University (Carnegie Mellon University collaboration)  
 💻 Pentester | Passionate about ethical hacking and cybersecurity  
 🏆 Third Prize - Devkathon (2024)  
 🛠️ Skills: Penetration Testing, Vulnerability Assessment, Web Security  
